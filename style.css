@@ -13,10 +13,10 @@ h2{
 }
 
 img {
-  width: 200px; /* define uma largura fixa, por exemplo */
-  height: auto; /* mantém a proporção da imagem */
-  border-radius: 10px; /* adiciona cantos arredondados, se desejar */
-  object-fit: cover; /* ajusta a imagem para preencher o espaço sem distorcer */
+  width: 190px; 
+  height: auto; 
+  border-radius: 10px; 
+  object-fit: cover; 
 }
 
 
