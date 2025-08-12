@@ -26,5 +26,12 @@ img {
 }
 
 
+.passado{
+   display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
 
-
+.texto{
+    margin-right: 10%;
+}
