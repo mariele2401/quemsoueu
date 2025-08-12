@@ -19,6 +19,12 @@ img {
   object-fit: cover; 
 }
 
+img {
+  width: 190px;
+  height: 190px;
+  object-fit: cover; /* para manter a proporção e evitar distorções */
+}
+
 
 
 
