@@ -19,6 +19,12 @@ img {
   object-fit: cover; 
 }
 
+ img {
+    width: 200px;
+   height: 200px;
+   object-fit: cover; /* Mantém a proporção e recorta a imagem se necessário */
+ }
+
 
 .passado{
     display: flex;
